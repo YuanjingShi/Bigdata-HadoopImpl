@@ -1,0 +1,5 @@
+sdas known, world count is a typical entry example for learning Hadoop. In this section, we will show how to write a Hadoop application for solving word count problem and how to run it with Hadoop system from scratch.
+
+If you have not set up an environemnt with Hadoop MR, go to this tutorial and get the environment ready first. All the operations in this section will be done in that environment.
+
+Eclipse will be used to develop this simple program with some configurations.
